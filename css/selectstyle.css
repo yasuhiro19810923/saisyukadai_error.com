@@ -1,0 +1,27 @@
+#main{
+  margin: 0;
+}
+
+.navbar-default{
+
+  background-color: rgb(240, 15, 83);
+
+}
+
+.navbar-brand{
+
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  padding-left: 20px;
+}
+
+.jumbotron{
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+  padding: 10px 0 10px 20px;
+  background-color: whitesmoke;
+}

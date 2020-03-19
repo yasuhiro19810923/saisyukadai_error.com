@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+}
+
+.title{
+  text-align: center;
+}
+
+.errorichiran{
+
+
+
+}
+
+h1{
+  color: white;
+  margin: 0;
+  padding: 20px;
+  background-color:  rgb(240, 15, 83);
+}
+
+.errorichiran h2{
+  margin: 0;
+  padding: 20px;
+  background-color: whitesmoke;
+}
+
+p{
+  padding-left: 20px;
+}
